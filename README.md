@@ -5,6 +5,7 @@
 - npm run dev
 
 ## API Routes:
+### All Request requires Bearer Token except Registering new Account and Login. Token can be gotten upon successful Login
 - GET /api/v1/users
 - POST /api/v1/users
 
